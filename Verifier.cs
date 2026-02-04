@@ -17,7 +17,7 @@ public class Verifier
     {
         if(age < 18)
         {
-            return "underage";
+            return "under age";
         } else
         {
             return "";
